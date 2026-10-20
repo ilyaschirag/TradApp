@@ -1,0 +1,8 @@
+requests
+datetime
+gzip
+json
+time
+dotenv
+pathlib
+sqlite3
